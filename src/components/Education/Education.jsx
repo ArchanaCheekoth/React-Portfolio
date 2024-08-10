@@ -16,7 +16,7 @@ const Education = () => {
         </h2>
 
         {educationdata.map((data) => (
-          <div className="timeline" key={education.id}>
+          <div className="timeline" key={data.id}>
             <div className="container-e left-container">
               <div className="timeline-bullet"></div>
               <EducationCard data={data} />

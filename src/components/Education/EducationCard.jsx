@@ -2,8 +2,6 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 
 const EducationCard = ({ data }) => {
-  console.log(data);
-
   return (
     <Card className="shadow-lg p-3 rounded mb-5">
       <Card.Body>
