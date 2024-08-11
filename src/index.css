@@ -2,14 +2,13 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   /* font-weight: 400; */
-  --primary:#1f293a;
-  --white:#fff;
-  --lighter-primary:#263652;
-  --secondary:#00eeff;
-  --icon-color:#03fc7f;
+  --primary: #1f293a;
+  --white: #fff;
+  --lighter-primary: #263652;
+  --secondary: #00eeff;
+  --icon-color: #03fc7f;
   /* --text-color:#4ecdc4; */
-  --text-color:#57fad3;
-  
+  --text-color: #57fad3;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -33,7 +32,7 @@ a:hover {
 
 body {
   margin: 0;
-  padding:0;
+  padding: 0;
   /* display: flex;
   place-items: center;
   min-width: 320px;
@@ -73,6 +72,6 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color:var(--primary);
+    background-color: var(--primary);
   }
 }
