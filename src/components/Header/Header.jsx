@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import image from "../../assets/image/coverimage.jpeg";
 import { Typewriter } from "react-simple-typewriter";
-import "./Header.css";
+import "./header.css";
 import { homedata } from "../../data/data";
 import CircleButton from "../CircleButton/CircleButton";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

@@ -1,5 +1,5 @@
 import React from "react";
-import "./About.css";
+import "./about.css";
 import { Container, Row, Col } from "react-bootstrap";
 import image from "../../assets/image/archana2.jpeg";
 import { aboutdata } from "../../data/data";

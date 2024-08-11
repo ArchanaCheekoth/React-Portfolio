@@ -1,7 +1,7 @@
 import React from "react";
-import { Col, Container, Row } from "react-bootstrap";
+import { Container } from "react-bootstrap";
 import EducationCard from "./EducationCard";
-import "./Education.css";
+import "./education.css";
 import { educationdata } from "../../data/data";
 
 const Education = () => {
